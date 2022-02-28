@@ -1,81 +1,81 @@
-Name,ID,Rarity
-common butterfly,1,Common
-yellow butterfly,2,Common
-tiger butterfly,3,Common
-peacock butterfly,4,Uncommon
-common bluebottle,5,Common
-paper kite butterfly,6,Common
-great purple emperor,7,Rare
-monarch butterfly,8,Common
-emperor butterfly,9,Uncommon
-agrias butterfly,10,Uncommon
-Rajah Brooke's birdwing,11,Uncommon
-Queen Alexandra's birdwing,12,Rare
-moth,13,Common
-Atlas moth,14,Uncommon
-Madagascan sunset moth,15,Uncommon
-long locust,16,Common
-migratory locust,17,Uncommon
-rice grasshopper,18,Common
-grasshopper,19,Common
-cricket,20,Common
-bell cricket,21,Common
-mantis,22,Common
-orchid mantis,23,Uncommon
-honeybee,24,Common
-wasp,25,Common
-brown cicada,26,Common
-robust cicada,27,Common
-giant cicada,28,Uncommon
-walker cicada,29,Common
-evening cicada,30,Common
-cicada shell,31,Rare
-red dragonfly,32,Common
-darner dragonfly,33,Common
-banded dragonfly,34,Rare
-damselfly,35,Common
-firefly,36,Common
-mole cricket,37,Common
-pondskater,38,Common
-diving beetle,39,Common
-giant water bug,40,Rare
-stinkbug,41,Common
-man-faced stink bug,42,Uncommon
-ladybug,43,Common
-tiger beetle,44,Uncommon
-jewel beetle,45,Uncommon
-violin beetle,46,Common
-citrus long-horned beetle,47,Common
-rosalia batesi beetle,48,Uncommon
-blue weevil beetle,49,Common
-dung beetle,50,Common
-earth-boring dung beetle,51,Common
-scarab beetle,52,Rare
-drone beetle,53,Common
-goliath beetle,54,Ultra-rare
-saw stag,55,Common
-miyama stag,56,Common
-giant stag,57,Rare
-rainbow stag,58,Rare
-cyclommatus stag,59,Ultra-rare
-golden stag,60,Ultra-rare
-giraffe stag,61,Ultra-rare
-horned dynastid,62,Common
-horned atlas,63,Ultra-rare
-horned elephant,64,Ultra-rare
-horned hercules,65,Ultra-rare
-walking stick,66,Uncommon
-walking leaf,67,Uncommon
-bagworm,68,Common
-ant,69,Common
-hermit crab,70,Common
-wharf roach,71,Common
-fly,72,Common
-mosquito,73,Common
-flea,74,Common
-snail,75,Common
-pill bug,76,Common
-centipede,77,Common
-spider,78,Common
-tarantula,79,Common
-scorpion,80,Common
+Name,ID,Rarity
+common butterfly,1,Common
+yellow butterfly,2,Common
+tiger butterfly,3,Common
+peacock butterfly,4,Uncommon
+common bluebottle,5,Common
+paper kite butterfly,6,Common
+great purple emperor,7,Rare
+monarch butterfly,8,Common
+emperor butterfly,9,Uncommon
+agrias butterfly,10,Uncommon
+Rajah Brooke's birdwing,11,Uncommon
+Queen Alexandra's birdwing,12,Rare
+moth,13,Common
+Atlas moth,14,Uncommon
+Madagascan sunset moth,15,Uncommon
+long locust,16,Common
+migratory locust,17,Uncommon
+rice grasshopper,18,Common
+grasshopper,19,Common
+cricket,20,Common
+bell cricket,21,Common
+mantis,22,Common
+orchid mantis,23,Uncommon
+honeybee,24,Common
+wasp,25,Common
+brown cicada,26,Common
+robust cicada,27,Common
+giant cicada,28,Uncommon
+walker cicada,29,Common
+evening cicada,30,Common
+cicada shell,31,Rare
+red dragonfly,32,Common
+darner dragonfly,33,Common
+banded dragonfly,34,Rare
+damselfly,35,Common
+firefly,36,Common
+mole cricket,37,Common
+pondskater,38,Common
+diving beetle,39,Common
+giant water bug,40,Rare
+stinkbug,41,Common
+man-faced stink bug,42,Uncommon
+ladybug,43,Common
+tiger beetle,44,Uncommon
+jewel beetle,45,Uncommon
+violin beetle,46,Common
+citrus long-horned beetle,47,Common
+rosalia batesi beetle,48,Uncommon
+blue weevil beetle,49,Common
+dung beetle,50,Common
+earth-boring dung beetle,51,Common
+scarab beetle,52,Rare
+drone beetle,53,Common
+goliath beetle,54,Ultra-rare
+saw stag,55,Common
+miyama stag,56,Common
+giant stag,57,Rare
+rainbow stag,58,Rare
+cyclommatus stag,59,Ultra-rare
+golden stag,60,Ultra-rare
+giraffe stag,61,Ultra-rare
+horned dynastid,62,Common
+horned atlas,63,Ultra-rare
+horned elephant,64,Ultra-rare
+horned hercules,65,Ultra-rare
+walking stick,66,Uncommon
+walking leaf,67,Uncommon
+bagworm,68,Common
+ant,69,Common
+hermit crab,70,Common
+wharf roach,71,Common
+fly,72,Common
+mosquito,73,Common
+flea,74,Common
+snail,75,Common
+pill bug,76,Common
+centipede,77,Common
+spider,78,Common
+tarantula,79,Common
+scorpion,80,Common

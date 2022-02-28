@@ -11,7 +11,7 @@ api_request = api_request.read()
 
 data = json.loads(api_request)
 
-with open('bug_data.csv', 'w') as f:
+with open('bug_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
 
     headers = ['Name', 'ID', 'Rarity']

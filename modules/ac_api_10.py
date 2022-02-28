@@ -10,7 +10,7 @@ api_data = api_data.read()
 
 data = json.loads(api_data)
 
-with open('bug_data.csv', 'w') as f:
+with open('bug_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
 
     headers = ['Name', 'ID', 'Time']
